@@ -4023,9 +4023,11 @@ cite {
 
 .chapters .chapter_inner {
   position: absolute;
-  left: 2.5%;
-  bottom: 10%;
-  background-color:red;
+  left:0;
+  bottom: 0;
+  background-color:rgba(255, 0, 0, 0.8);
+  width:100%;
+  padding:15px;
 }
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
