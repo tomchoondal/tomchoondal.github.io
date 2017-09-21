@@ -1,4 +1,4 @@
-logo: Tjose
+logo: Tom Jose
 title: Tom Jose
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -16,9 +16,9 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Tom Jose
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
+about-author: UX developer with more than 4.5 year experience in Microsoft technologies like WPF, Xamarin,Xbox One and Windows 10 UWP.
+email: tomjosec@gmail.com
+phone: # your pnone number
 website: https://tomchoondal.github.io # you website
 
 # Social link
