@@ -4297,13 +4297,13 @@ cite {
   background-color: rgba(210, 84, 105, 0.4);
 }
 
-.post header .post_title {
-  padding: 1rem;
-  font-size: 2rem;
-  margin: 0;
-  background-color: rgba(192, 51, 74, 0.4);
-  color: #ffffff;
-}
+    .post header .post_title {
+        padding: 1rem;
+        font-size: 2rem;
+        margin: 0;
+        background-color: rgba(192, 51, 72, 1);
+        color: #ffffff;
+    }
 
 .post .entry_content {
   padding-bottom: 2rem;
