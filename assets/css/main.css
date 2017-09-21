@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -4025,6 +4025,7 @@ cite {
   position: absolute;
   left: 2.5%;
   bottom: 10%;
+  background-color:red;
 }
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
