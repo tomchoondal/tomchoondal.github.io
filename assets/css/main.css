@@ -3864,7 +3864,7 @@ p {
 
 blockquote {
   font-size: 1.2rem;
-  font-style: italic;
+
   border-left: 3px solid #c25b6c;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
@@ -3892,7 +3892,8 @@ input[type=email], input[type=text], input[type=tel], textarea {
 }
 
 cite {
-  color: #949494;
+    color: #949494;
+    font-style: italic;
 }
 
 .wrapper {
