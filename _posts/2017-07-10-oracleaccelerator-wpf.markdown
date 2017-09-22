@@ -9,5 +9,5 @@ tag: [Travel, Indonesia, Mountains]
 This is a hotel management application for management and staffs. It is used do day to day hotel management and reservations. The app is built using oracle’s Ulta UI principles and contains rich animations and user experience. My role in this application was to handle whole app's UI.
 
 
-> Windows Presentation Foundation (WPF). <cite>- XAML, C#, MVVM</cite>
+> Windows Presentation Foundation (WPF). <cite>- XAML, C#, MVVM, Visual Studio 15, Expression Blend</cite>
 

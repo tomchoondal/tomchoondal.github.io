@@ -9,5 +9,5 @@ tag: [Travel, Indonesia, Mountains]
 This is the latest application we developed for Microsoft which enables users to purchase and rent TV shows and movies using Xamarin. My responsibility is to handle the complex design from client for iOS using Xcode.
 
 
-> Xamarin Native. <cite>- C#, Xcode</cite>
+> Xamarin Native. <cite>- C#, Xcode, Visual Studio 13</cite>
 

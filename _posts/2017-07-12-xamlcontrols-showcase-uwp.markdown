@@ -8,4 +8,4 @@ tag: [Travel, Malaysia, Blogging]
 ---
 It is showcase application done for Microsoft to introduce 12 new controls created by Microsoft in their new release of Visual Studio 2017. The app contains all the controls used in UWP and their use case and samples. The application is made on microsoft’s new design platform “Fluent Design pattern”.
 
-> Windows UWP. <cite>- Xaml, C#</cite>
+> Windows UWP. <cite>- Xaml, C#, Visual Studio 2017</cite>

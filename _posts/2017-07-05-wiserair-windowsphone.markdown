@@ -9,5 +9,5 @@ tag: [Sweden, Travel, Forest]
 Wiser Air isn't just a cutting-edge thermostat. It's a home energy management solution built with a state-of-the-art technology that gives you control of comfort and savings for peace of mind. This is windows 8.1 and windows phone 8.1 application contains rich animations and UI.
 
 
-> Windows Phone 8.1 Windows 8.1. <cite>- C#, Xaml</cite>
+> Windows Phone 8.1 Windows 8.1. <cite>- C#, Xaml, Visual Studio 13</cite>
 

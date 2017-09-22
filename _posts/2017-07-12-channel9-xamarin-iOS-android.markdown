@@ -8,5 +8,5 @@ tag: [Travel, Nevada]
 ---
 Channel 9 is a Microsoft community site for Microsoft customers created in 2004. It hosts video channels, discussions, podcasts, screen casts and interviews. This is a cross platform application for both iOS and android. This is our first Xamarin project built using Xamarin, Xcode, Visual Studio and C #
 
-> Xamarin Native iOS and Android. <cite>- C#, Xcode, Android Studio</cite>
+> Xamarin Native iOS and Android. <cite>- C#, Xcode, Android Studio, Visual Studio 2013</cite>
 

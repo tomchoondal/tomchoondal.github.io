@@ -8,4 +8,4 @@ tag: [Travel, Texas, Canyon]
 ---
 BBM for Windows Phone is the latest messaging application to windows phone store. Application supports functionalities like location, image, audio, files and chat sharing also the version 2 supports timed message, retract message and stickers. Version 3 includes channels. My responsibility was to handle User Experience, design integration and animations of application. 
 
-> Windows 8. <cite>- C#, Xaml, MVVM</cite>
+> Windows 8. <cite>- C#, Xaml, MVVM, Visual Studio 13</cite>
