@@ -12,7 +12,7 @@ permalink: /about/
         </div>
         <div class="author_info">
           <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-          <p class="author_subtitle">UX Designer and Front-End Developer with more than 8 years of experience in Prototyping, Wireframing, Visual Designing and Web, Mobile and Desktop UI Development. </p>
+          <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}About Me{% endif %}</p>
           <p class="author_subtitle">Well Experienced in UX Design tools like Axure, Illustrator and Photoshop. And Expert in XAML Programming environment including WPF, UWP and Xamarin.</p>
           <p class="author_subtitle">Well known as XAML programmer. Expert in User Experience</p>
         </div>
